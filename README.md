@@ -1,6 +1,6 @@
 # Hire Developers
 
-Click here to visit my live site [Hire Developers](https://github.com/facebook/create-react-app).
+Click here to visit my live site [Hire Developers](https://epic-kepler-af2eb5.netlify.app/).
 
 ## About this projects
 * You can make a simple dynamic ecommerce site with this code
