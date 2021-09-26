@@ -18,7 +18,7 @@ const Developers = () => {
     }
 
     return (
-        <div className ="developers-section">
+        <div div className = "developers-section ms-5 mt-5" >
             <div className = "developer-section" >
                 {
                     developers.map(developer => <Profile

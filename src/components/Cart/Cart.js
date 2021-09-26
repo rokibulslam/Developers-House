@@ -8,13 +8,14 @@ const Cart = (props) => {
     }
     return (
         <div>
-            <h1>Cart : {cart.length}</h1>
-            <h2>${total}</h2>
+            <h5>Total Developers : {cart.length}</h5>
+            <h5>Total: ${total}</h5>
             <ul>
                 {
                     cart.map(profile => <li key={profile.index}>{profile.name}</li>)
                 }
             </ul>
+            <button class="btn btn-warning">Buy Now</button>
         </div>
     );
 };
