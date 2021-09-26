@@ -11,12 +11,12 @@ const Cart = (props) => {
         total = total + profile.salary;
     }
     return (
-        <div className="cart-main ms-5 me-2 px-5 pb-5 pt-2">
-            <h6>Total Developers : {icon} {cart.length}</h6>
-            <h6>Total: ${total}</h6>
+        <div className="cart-main ms-5 p-5 pt-2">
+            <h5 className="mx-5">Total Developers : {icon} {cart.length}</h5>
+            <h6 className="text-danger">Total: ${total}</h6>
             <ul>
                 {
-                    cart.map(profile => <li key={profile.index}>{profile.name}</li>)
+                    cart.map(profile => <li className="bg-secondary text-white m-2 rounded p-2" key={profile.index}>{profile.name}</li>)
                 }
             </ul>
             <button class="btn btn-warning"> Buy Now</button>
