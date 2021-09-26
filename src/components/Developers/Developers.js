@@ -12,10 +12,17 @@ const Developers = () => {
             .then(data => setDevelopers(data))
     }, [])
     const handleAddToCart = (profile) => {
-        const newCart = [...cart, profile]
-        setCart(newCart)
+        if (cart.indexOf(profile) === -1) {
+            const newCart = [...cart, profile]
+            setCart(newCart)
+        }
+        else {
+            return
+        }
+        
 
     }
+    
 
     return (
         <div div className = "developers-section ms-5 mt-5" >
