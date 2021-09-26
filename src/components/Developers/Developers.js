@@ -5,6 +5,7 @@ import Profile from '../Profile/Profile';
 
 const Developers = () => {
     const [developers, setDevelopers] = useState([])
+    // state declare for handle handleAddToCart button 
     const [cart, setCart] = useState([])
     useEffect(() => {
         fetch("./developers.JSON")
@@ -19,8 +20,6 @@ const Developers = () => {
         else {
             return
         }
-        
-
     }
     
 
