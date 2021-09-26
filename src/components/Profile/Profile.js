@@ -4,7 +4,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 
 const Profile = (props) => {
-    console.log(props)
     const { name, age, eyeColor, phone, salary, picture, gender } = props.developer;
     const icon = <FontAwesomeIcon icon={faShoppingCart} />
     
