@@ -8,3 +8,28 @@
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 20px;
 }
+
+
+
+@media only screen and (max-width: 768px) {
+    .developers-section {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }
+    .developer-section {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 20px;
+    }
+}
+@media only screen and (max-width: 468px) {
+    .developers-section {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .developer-section {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 20px;
+    }
+}
