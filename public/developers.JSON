@@ -6,7 +6,7 @@
         "age": 30,
         "eyeColor": "green",
         "name": "Ernestine Hammond",
-        "gender": "female",
+        "gender": "Male",
         "email": "ernestinehammond@unia.com",
         "phone": "+1 (885) 527-3386",
         "address": "136 Euclid Avenue, Zarephath, Kansas, 4919"
@@ -19,7 +19,7 @@
         "age": 37,
         "eyeColor": "green",
         "name": "Romero Garza",
-        "gender": "male",
+        "gender": "Male",
         "email": "romerogarza@unia.com",
         "phone": "+1 (854) 446-3021",
         "address": "182 Engert Avenue, Wheatfields, California, 7007"
@@ -32,7 +32,7 @@
         "age": 25,
         "eyeColor": "blue",
         "name": "Bianca Turner",
-        "gender": "female",
+        "gender": "Male",
         "email": "biancaturner@unia.com",
         "phone": "+1 (869) 503-3970",
         "address": "803 Cook Street, Ronco, Connecticut, 8977"
@@ -45,7 +45,7 @@
         "age": 30,
         "eyeColor": "brown",
         "name": "Elvira Leblanc",
-        "gender": "female",
+        "gender": "Male",
         "email": "elviraleblanc@unia.com",
         "phone": "+1 (931) 412-2761",
         "address": "287 Montague Terrace, Guthrie, Virgin Islands, 6275"
@@ -58,7 +58,7 @@
         "age": 40,
         "eyeColor": "blue",
         "name": "Brewer Clark",
-        "gender": "male",
+        "gender": "Male",
         "email": "brewerclark@unia.com",
         "phone": "+1 (868) 540-3237",
         "address": "464 Bay Avenue, Cotopaxi, South Dakota, 5951"
@@ -71,7 +71,7 @@
         "age": 25,
         "eyeColor": "green",
         "name": "Simmons Stein",
-        "gender": "male",
+        "gender": "Male",
         "email": "simmonsstein@unia.com",
         "phone": "+1 (847) 555-2549",
         "address": "365 Lincoln Avenue, Glasgow, Virginia, 8536"
@@ -84,7 +84,7 @@
         "age": 34,
         "eyeColor": "green",
         "name": "Garcia Fitzpatrick",
-        "gender": "male",
+        "gender": "Male",
         "email": "garciafitzpatrick@unia.com",
         "phone": "+1 (835) 550-3327",
         "address": "529 Caton Place, Dahlen, Delaware, 871"
@@ -97,7 +97,7 @@
         "age": 25,
         "eyeColor": "blue",
         "name": "Natalie Gilliam",
-        "gender": "female",
+        "gender": "Male",
         "email": "nataliegilliam@unia.com",
         "phone": "+1 (949) 506-3967",
         "address": "396 Franklin Avenue, Spelter, New Jersey, 4496"
@@ -110,7 +110,7 @@
         "age": 30,
         "eyeColor": "blue",
         "name": "Terra Decker",
-        "gender": "female",
+        "gender": "Male",
         "email": "terradecker@unia.com",
         "phone": "+1 (834) 419-3786",
         "address": "784 Remsen Avenue, Onton, Iowa, 3912"
@@ -123,7 +123,7 @@
         "age": 26,
         "eyeColor": "brown",
         "name": "Olivia Alvarado",
-        "gender": "female",
+        "gender": "Male",
         "email": "oliviaalvarado@unia.com",
         "phone": "+1 (806) 492-3869",
         "address": "948 Clarendon Road, Eden, Wisconsin, 7236"
@@ -136,7 +136,7 @@
         "age": 32,
         "eyeColor": "green",
         "name": "Francesca Pennington",
-        "gender": "female",
+        "gender": "Male",
         "email": "francescapennington@unia.com",
         "phone": "+1 (944) 497-2377",
         "address": "278 Lee Avenue, Zortman, Louisiana, 9739"
@@ -149,10 +149,10 @@
         "age": 32,
         "eyeColor": "green",
         "name": "Francesca Pennington",
-        "gender": "female",
-        "email": "francescapennington@unia.com",
+        "gender": "Male",
+        "email": "scapennington@unia.com",
         "phone": "+1 (944) 497-2377",
-        "address": "278 Lee Avenue, Zortman, Louisiana, 9739"
+        "address": "278 Lee Avenue, Zortman, 9739"
     },
     {
         "id": "615024230ebae22d1b96c89812c",
@@ -162,10 +162,10 @@
         "age": 32,
         "eyeColor": "green",
         "name": "Francesca Pennington",
-        "gender": "female",
-        "email": "francescapennington@unia.com",
+        "gender": "Male",
+        "email": "ncescapennington@unia.com",
         "phone": "+1 (944) 497-2377",
-        "address": "278 Lee Avenue, Zortman, Louisiana, 9739"
+        "address": "278 Lee Avenue, Zortman, 9739"
     },
     {
         "id": "62342115020ebae22d1b96c89812c",
@@ -175,10 +175,10 @@
         "age": 32,
         "eyeColor": "green",
         "name": "Francesca Pennington",
-        "gender": "female",
-        "email": "francescapennington@unia.com",
+        "gender": "Male",
+        "email": "pennington@unia.com",
         "phone": "+1 (944) 497-2377",
-        "address": "278 Lee Avenue, Zortman, Louisiana, 9739"
+        "address": "278 Lee Avenue, Zortman, 9739"
     },
     {
         "id": "615026545320ebae22d1b96c89812c",
@@ -188,10 +188,10 @@
         "age": 32,
         "eyeColor": "green",
         "name": "Francesca Pennington",
-        "gender": "female",
-        "email": "francescapennington@unia.com",
+        "gender": "Male",
+        "email": "fscapennington@unia.com",
         "phone": "+1 (944) 497-2377",
-        "address": "278 Lee Avenue, Zortman, Louisiana, 9739"
+        "address": "278 Lee Avenue, Zortman, 9739"
     },
     {
         "id": "615020ebddfgdae22d1b96c89812c",
@@ -201,9 +201,9 @@
         "age": 32,
         "eyeColor": "green",
         "name": "Francesca Pennington",
-        "gender": "female",
-        "email": "francescapennington@unia.com",
+        "gender": "Male",
+        "email": "pennington@unia.com",
         "phone": "+1 (944) 497-2377",
-        "address": "278 Lee Avenue, Zortman, Louisiana, 9739"
+        "address": "278 Lee Avenue, Zortman, 9739"
     }
 ]
